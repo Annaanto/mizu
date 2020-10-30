@@ -1,0 +1,2646 @@
+﻿
+<DynamicTemplateString>
+	<StringID>com.fmi.basedirectory.proof_mizu_theme_v2/</StringID>
+	<SourceText>proof_mizu_theme_v2/</SourceText>
+	<TargetText>proof_mizu_theme_v2/</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.__FMAddonTemplate_Metadata</StringID>
+	<SourceText>__FMAddonTemplate_Metadata</SourceText>
+	<TargetText>__FMAddonTemplate_Metadata</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable._appNav</StringID>
+	<SourceText>_appNav</SourceText>
+	<TargetText>_appNav</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_Attribution</StringID>
+	<SourceText>__FMAddonTemplate_Attribution</SourceText>
+	<TargetText>__FMAddonTemplate_Attribution</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_Category</StringID>
+	<SourceText>__FMAddonTemplate_Category</SourceText>
+	<TargetText>__FMAddonTemplate_Category</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_Clients</StringID>
+	<SourceText>__FMAddonTemplate_Clients</SourceText>
+	<TargetText>__FMAddonTemplate_Clients</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_Desc</StringID>
+	<SourceText>__FMAddonTemplate_Desc</SourceText>
+	<TargetText>__FMAddonTemplate_Desc</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_GUID</StringID>
+	<SourceText>__FMAddonTemplate_GUID</SourceText>
+	<TargetText>__FMAddonTemplate_GUID</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_Icon</StringID>
+	<SourceText>__FMAddonTemplate_Icon</SourceText>
+	<TargetText>__FMAddonTemplate_Icon</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_PreviewImage</StringID>
+	<SourceText>__FMAddonTemplate_PreviewImage</SourceText>
+	<TargetText>__FMAddonTemplate_PreviewImage</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_Title</StringID>
+	<SourceText>__FMAddonTemplate_Title</SourceText>
+	<TargetText>__FMAddonTemplate_Title</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_URL</StringID>
+	<SourceText>__FMAddonTemplate_URL</SourceText>
+	<TargetText>__FMAddonTemplate_URL</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_Version</StringID>
+	<SourceText>__FMAddonTemplate_Version</SourceText>
+	<TargetText>__FMAddonTemplate_Version</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::ID</StringID>
+	<SourceText>ID</SourceText>
+	<TargetText>ID</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::_creationAccount</StringID>
+	<SourceText>_creationAccount</SourceText>
+	<TargetText>_creationAccount</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::_creationTimestamp</StringID>
+	<SourceText>_creationTimestamp</SourceText>
+	<TargetText>_creationTimestamp</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::_gRecordKey</StringID>
+	<SourceText>_gRecordKey</SourceText>
+	<TargetText>_gRecordKey</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::_kTrue</StringID>
+	<SourceText>_kTrue</SourceText>
+	<TargetText>_kTrue</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::_lastModifyAccount</StringID>
+	<SourceText>_lastModifyAccount</SourceText>
+	<TargetText>_lastModifyAccount</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::_lastModifyTimestamp</StringID>
+	<SourceText>_lastModifyTimestamp</SourceText>
+	<TargetText>_lastModifyTimestamp</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::enabled</StringID>
+	<SourceText>enabled</SourceText>
+	<TargetText>enabled</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::gNavArray</StringID>
+	<SourceText>gNavArray</SourceText>
+	<TargetText>gNavArray</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::icon</StringID>
+	<SourceText>icon</SourceText>
+	<TargetText>icon</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::iconFileName</StringID>
+	<SourceText>iconFileName</SourceText>
+	<TargetText>iconFileName</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::index</StringID>
+	<SourceText>index</SourceText>
+	<TargetText>index</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::label</StringID>
+	<SourceText>label</SourceText>
+	<TargetText>label</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::parentIndex</StringID>
+	<SourceText>parentIndex</SourceText>
+	<TargetText>parentIndex</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::position</StringID>
+	<SourceText>position</SourceText>
+	<TargetText>position</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::scriptName</StringID>
+	<SourceText>scriptName</SourceText>
+	<TargetText>scriptName</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::scriptParameter</StringID>
+	<SourceText>scriptParameter</SourceText>
+	<TargetText>scriptParameter</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::section</StringID>
+	<SourceText>section</SourceText>
+	<TargetText>section</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::shortLabel</StringID>
+	<SourceText>shortLabel</SourceText>
+	<TargetText>shortLabel</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::text.Account name of the user who created each record</StringID>
+	<SourceText>Account name of the user who created each record</SourceText>
+	<TargetText>Account name of the user who created each record</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::text.Account name of the user who last modified each record</StringID>
+	<SourceText>Account name of the user who last modified each record</SourceText>
+	<TargetText>Account name of the user who last modified each record</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::text.Date and time each record was created</StringID>
+	<SourceText>Date and time each record was created</SourceText>
+	<TargetText>Date and time each record was created</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::text.Date and time each record was last modified</StringID>
+	<SourceText>Date and time each record was last modified</SourceText>
+	<TargetText>Date and time each record was last modified</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::text.Unique identifier of each record in this table</StringID>
+	<SourceText>Unique identifier of each record in this table</SourceText>
+	<TargetText>Unique identifier of each record in this table</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::text.constant field containing a boolean _True_ value</StringID>
+	<SourceText>constant field containing a boolean &quot;True&quot; value</SourceText>
+	<TargetText>constant field containing a boolean &quot;True&quot; value</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field._appNav::text.globally stored field for utility purpose</StringID>
+	<SourceText>globally stored field for utility purpose</SourceText>
+	<TargetText>globally stored field for utility purpose</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::Field 1</StringID>
+	<SourceText>Field 1</SourceText>
+	<TargetText>Field 1</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::Field 2</StringID>
+	<SourceText>Field 2</SourceText>
+	<TargetText>Field 2</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::Field 3</StringID>
+	<SourceText>Field 3</SourceText>
+	<TargetText>Field 3</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::ID</StringID>
+	<SourceText>ID</SourceText>
+	<TargetText>ID</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::__gln</StringID>
+	<SourceText>__gln</SourceText>
+	<TargetText>__gln</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::__layoutNames</StringID>
+	<SourceText>__layoutNames</SourceText>
+	<TargetText>__layoutNames</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::__navitem</StringID>
+	<SourceText>__navitem</SourceText>
+	<TargetText>__navitem</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::__versionString</StringID>
+	<SourceText>__versionString</SourceText>
+	<TargetText>__versionString</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::_creationAccount</StringID>
+	<SourceText>_creationAccount</SourceText>
+	<TargetText>_creationAccount</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::_creationTimestamp</StringID>
+	<SourceText>_creationTimestamp</SourceText>
+	<TargetText>_creationTimestamp</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::_gRecordKey</StringID>
+	<SourceText>_gRecordKey</SourceText>
+	<TargetText>_gRecordKey</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::_kTrue</StringID>
+	<SourceText>_kTrue</SourceText>
+	<TargetText>_kTrue</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::_lastModifyAccount</StringID>
+	<SourceText>_lastModifyAccount</SourceText>
+	<TargetText>_lastModifyAccount</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::_lastModifyTimestamp</StringID>
+	<SourceText>_lastModifyTimestamp</SourceText>
+	<TargetText>_lastModifyTimestamp</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::gPlaceholderContainer</StringID>
+	<SourceText>gPlaceholderContainer</SourceText>
+	<TargetText>gPlaceholderContainer</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::gPlaceholderDate</StringID>
+	<SourceText>gPlaceholderDate</SourceText>
+	<TargetText>gPlaceholderDate</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::gPlaceholderNumber</StringID>
+	<SourceText>gPlaceholderNumber</SourceText>
+	<TargetText>gPlaceholderNumber</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::gPlaceholderTS</StringID>
+	<SourceText>gPlaceholderTS</SourceText>
+	<TargetText>gPlaceholderTS</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::gPlaceholderText</StringID>
+	<SourceText>gPlaceholderText</SourceText>
+	<TargetText>gPlaceholderText</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::gPlaceholderTime</StringID>
+	<SourceText>gPlaceholderTime</SourceText>
+	<TargetText>gPlaceholderTime</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::recordID</StringID>
+	<SourceText>recordID</SourceText>
+	<TargetText>recordID</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::text.Account name of the user who created each record</StringID>
+	<SourceText>Account name of the user who created each record</SourceText>
+	<TargetText>Account name of the user who created each record</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::text.Account name of the user who last modified each record</StringID>
+	<SourceText>Account name of the user who last modified each record</SourceText>
+	<TargetText>Account name of the user who last modified each record</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::text.Date and time each record was created</StringID>
+	<SourceText>Date and time each record was created</SourceText>
+	<TargetText>Date and time each record was created</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::text.Date and time each record was last modified</StringID>
+	<SourceText>Date and time each record was last modified</SourceText>
+	<TargetText>Date and time each record was last modified</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::text.Unique identifier of each record in this table</StringID>
+	<SourceText>Unique identifier of each record in this table</SourceText>
+	<TargetText>Unique identifier of each record in this table</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::text.constant field containing a boolean _True_ value</StringID>
+	<SourceText>constant field containing a boolean &quot;True&quot; value</SourceText>
+	<TargetText>constant field containing a boolean &quot;True&quot; value</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.themeSample::text.globally stored field for utility purpose</StringID>
+	<SourceText>globally stored field for utility purpose</SourceText>
+	<TargetText>globally stored field for utility purpose</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.themeSample</StringID>
+	<SourceText>themeSample</SourceText>
+	<TargetText>themeSample</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text..</StringID>
+	<SourceText>.</SourceText>
+	<TargetText>.</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text..icon</StringID>
+	<SourceText>.icon</SourceText>
+	<TargetText>.icon</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text..iconFileName</StringID>
+	<SourceText>.iconFileName</SourceText>
+	<TargetText>.iconFileName</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text..label</StringID>
+	<SourceText>.label</SourceText>
+	<TargetText>.label</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text./</StringID>
+	<SourceText>/</SourceText>
+	<TargetText>/</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1.</StringID>
+	<SourceText>1.</SourceText>
+	<TargetText>1.</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1.1 BETA</StringID>
+	<SourceText>1.1 BETA</SourceText>
+	<TargetText>1.1 BETA</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1.label</StringID>
+	<SourceText>1.label</SourceText>
+	<TargetText>1.label</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2</StringID>
+	<SourceText>2</SourceText>
+	<TargetText>2</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2.label</StringID>
+	<SourceText>2.label</SourceText>
+	<TargetText>2.label</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.313CC6BFB7DFE3AE0D684D8FDB414AF7</StringID>
+	<SourceText>elementOf custom function<CR/></SourceText>
+	<TargetText>elementOf custom function<CR/></TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.6D1B2A5AF7A40D1849BD3DCC2B0C1CA7</StringID>
+	<SourceText>Base64Decode ( JSONGetElement ( $$nav.json ; &quot;1.&quot; &amp; Get ( CalculationRepetitionNumber ) &amp; &quot;.icon&quot; ) )<CR/></SourceText>
+	<TargetText>Base64Decode ( JSONGetElement ( $$nav.json ; &quot;1.&quot; &amp; Get ( CalculationRepetitionNumber ) &amp; &quot;.icon&quot; ) )<CR/></TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.?</StringID>
+	<SourceText>?</SourceText>
+	<TargetText>?</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Account Info</StringID>
+	<SourceText>Account Info</SourceText>
+	<TargetText>Account Info</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AccountInfo</StringID>
+	<SourceText>AccountInfo</SourceText>
+	<TargetText>AccountInfo</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Accounts</StringID>
+	<SourceText>Accounts</SourceText>
+	<TargetText>Accounts</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Action</StringID>
+	<SourceText>Action</SourceText>
+	<TargetText>Action</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Agreements</StringID>
+	<SourceText>Agreements</SourceText>
+	<TargetText>Agreements</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Alert</StringID>
+	<SourceText>Alert</SourceText>
+	<TargetText>Alert</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Alpha</StringID>
+	<SourceText>Alpha</SourceText>
+	<TargetText>Alpha</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Bravo</StringID>
+	<SourceText>Bravo</SourceText>
+	<TargetText>Bravo</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Button Activated</StringID>
+	<SourceText>Button Activated</SourceText>
+	<TargetText>Button Activated</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Charlie</StringID>
+	<SourceText>Charlie</SourceText>
+	<TargetText>Charlie</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Contacts</StringID>
+	<SourceText>Contacts</SourceText>
+	<TargetText>Contacts</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Dolor Sit Amet</StringID>
+	<SourceText>Dolor Sit Amet</SourceText>
+	<TargetText>Dolor Sit Amet</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.List</StringID>
+	<SourceText>List</SourceText>
+	<TargetText>List</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Lorem Ipsum</StringID>
+	<SourceText>Lorem Ipsum</SourceText>
+	<TargetText>Lorem Ipsum</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.MM/DD/YYYY hh:mm</StringID>
+	<SourceText>MM/DD/YYYY hh:mm</SourceText>
+	<TargetText>MM/DD/YYYY hh:mm</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Minim Veniam</StringID>
+	<SourceText>Minim Veniam</SourceText>
+	<TargetText>Minim Veniam</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Overview</StringID>
+	<SourceText>Overview</SourceText>
+	<TargetText>Overview</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Pipeline</StringID>
+	<SourceText>Pipeline</SourceText>
+	<TargetText>Pipeline</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Popover</StringID>
+	<SourceText>Popover</SourceText>
+	<TargetText>Popover</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Reaction</StringID>
+	<SourceText>Reaction</SourceText>
+	<TargetText>Reaction</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.[]</StringID>
+	<SourceText>[]</SourceText>
+	<TargetText>[]</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.\_</StringID>
+	<SourceText>\&quot;</SourceText>
+	<TargetText>\&quot;</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.apps</StringID>
+	<SourceText>apps</SourceText>
+	<TargetText>apps</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.billing</StringID>
+	<SourceText>billing</SourceText>
+	<TargetText>billing</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.contacts</StringID>
+	<SourceText>contacts</SourceText>
+	<TargetText>contacts</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.example-list-2</StringID>
+	<SourceText>example-list-2</SourceText>
+	<TargetText>example-list-2</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.example-portal</StringID>
+	<SourceText>example-portal</SourceText>
+	<TargetText>example-portal</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.http://en.m.wiktionary.org/wiki/Special:Search?</StringID>
+	<SourceText>http://en.m.wiktionary.org/wiki/Special:Search?</SourceText>
+	<TargetText>http://en.m.wiktionary.org/wiki/Special:Search?</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.icon</StringID>
+	<SourceText>icon</SourceText>
+	<TargetText>icon</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.iconFileName</StringID>
+	<SourceText>iconFileName</SourceText>
+	<TargetText>iconFileName</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.label</StringID>
+	<SourceText>label</SourceText>
+	<TargetText>label</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.main.detail</StringID>
+	<SourceText>main.detail</SourceText>
+	<TargetText>main.detail</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.main.list</StringID>
+	<SourceText>main.list</SourceText>
+	<TargetText>main.list</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.material</StringID>
+	<SourceText>material</SourceText>
+	<TargetText>material</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.nav action()</StringID>
+	<SourceText>nav action()</SourceText>
+	<TargetText>nav action()</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.nav init()</StringID>
+	<SourceText>nav init()</SourceText>
+	<TargetText>nav init()</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.orders</StringID>
+	<SourceText>orders</SourceText>
+	<TargetText>orders</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.pipeline</StringID>
+	<SourceText>pipeline</SourceText>
+	<TargetText>pipeline</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.position</StringID>
+	<SourceText>position</SourceText>
+	<TargetText>position</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.scriptName</StringID>
+	<SourceText>scriptName</SourceText>
+	<TargetText>scriptName</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.scriptParameter</StringID>
+	<SourceText>scriptParameter</SourceText>
+	<TargetText>scriptParameter</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.search=</StringID>
+	<SourceText>search=</SourceText>
+	<TargetText>search=</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.section</StringID>
+	<SourceText>section</SourceText>
+	<TargetText>section</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.settings</StringID>
+	<SourceText>settings</SourceText>
+	<TargetText>settings</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.shipping</StringID>
+	<SourceText>shipping</SourceText>
+	<TargetText>shipping</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.shortLabel</StringID>
+	<SourceText>shortLabel</SourceText>
+	<TargetText>shortLabel</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.systems</StringID>
+	<SourceText>systems</SourceText>
+	<TargetText>systems</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.{\_label\_:\_accounts\_,\_shortLabel\_:\_accounts\_,\_scriptName\_:\_nav action()\_,\_scriptParameter\_:\_1\_}</StringID>
+	<SourceText>{\&quot;label\&quot;:\&quot;accounts\&quot;,\&quot;shortLabel\&quot;:\&quot;accounts\&quot;,\&quot;scriptName\&quot;:\&quot;nav action()\&quot;,\&quot;scriptParameter\&quot;:\&quot;1\&quot;}</SourceText>
+	<TargetText>{\&quot;label\&quot;:\&quot;accounts\&quot;,\&quot;shortLabel\&quot;:\&quot;accounts\&quot;,\&quot;scriptName\&quot;:\&quot;nav action()\&quot;,\&quot;scriptParameter\&quot;:\&quot;1\&quot;}</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.¶</StringID>
+	<SourceText>¶</SourceText>
+	<TargetText>¶</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.About</StringID>
+	<SourceText>About</SourceText>
+	<TargetText>About</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Buttons</StringID>
+	<SourceText>Buttons</SourceText>
+	<TargetText>Buttons</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Cards</StringID>
+	<SourceText>Cards</SourceText>
+	<TargetText>Cards</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Fields</StringID>
+	<SourceText>Fields</SourceText>
+	<TargetText>Fields</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Fields - Default</StringID>
+	<SourceText>Fields - Default</SourceText>
+	<TargetText>Fields - Default</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Fields - Headings</StringID>
+	<SourceText>Fields - Headings</SourceText>
+	<TargetText>Fields - Headings</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Grid 1024/1280</StringID>
+	<SourceText>Grid 1024/1280</SourceText>
+	<TargetText>Grid 1024/1280</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Layout &amp; Grid</StringID>
+	<SourceText>Layout &amp; Grid</SourceText>
+	<TargetText>Layout &amp; Grid</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Lists</StringID>
+	<SourceText>Lists</SourceText>
+	<TargetText>Lists</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Miscellaneous</StringID>
+	<SourceText>Miscellaneous</SourceText>
+	<TargetText>Miscellaneous</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Navigation</StringID>
+	<SourceText>Navigation</SourceText>
+	<TargetText>Navigation</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Overview</StringID>
+	<SourceText>Overview</SourceText>
+	<TargetText>Overview</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Portals</StringID>
+	<SourceText>Portals</SourceText>
+	<TargetText>Portals</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Tabs</StringID>
+	<SourceText>Tabs</SourceText>
+	<TargetText>Tabs</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Typography</StringID>
+	<SourceText>Typography</SourceText>
+	<TargetText>Typography</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout._appNav</StringID>
+	<SourceText>_appNav</SourceText>
+	<TargetText>_appNav</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.folder.App Nav</StringID>
+	<SourceText>App Nav</SourceText>
+	<TargetText>App Nav</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.folder.Grids</StringID>
+	<SourceText>Grids</SourceText>
+	<TargetText>Grids</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.folder.Theme Dev - Delete before add-on build</StringID>
+	<SourceText>Theme Dev - Delete before add-on build</SourceText>
+	<TargetText>Theme Dev - Delete before add-on build</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.folder.水 Theme Components</StringID>
+	<SourceText>水 Theme Components</SourceText>
+	<TargetText>水 Theme Components</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Grid</StringID>
+	<SourceText>Grid</SourceText>
+	<TargetText>Grid</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 0</StringID>
+	<SourceText>Gutter 0</SourceText>
+	<TargetText>Gutter 0</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 1</StringID>
+	<SourceText>Gutter 1</SourceText>
+	<TargetText>Gutter 1</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 10</StringID>
+	<SourceText>Gutter 10</SourceText>
+	<TargetText>Gutter 10</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 11</StringID>
+	<SourceText>Gutter 11</SourceText>
+	<TargetText>Gutter 11</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 12</StringID>
+	<SourceText>Gutter 12</SourceText>
+	<TargetText>Gutter 12</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 13</StringID>
+	<SourceText>Gutter 13</SourceText>
+	<TargetText>Gutter 13</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 14</StringID>
+	<SourceText>Gutter 14</SourceText>
+	<TargetText>Gutter 14</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 15</StringID>
+	<SourceText>Gutter 15</SourceText>
+	<TargetText>Gutter 15</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 16</StringID>
+	<SourceText>Gutter 16</SourceText>
+	<TargetText>Gutter 16</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 17</StringID>
+	<SourceText>Gutter 17</SourceText>
+	<TargetText>Gutter 17</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 18</StringID>
+	<SourceText>Gutter 18</SourceText>
+	<TargetText>Gutter 18</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 19</StringID>
+	<SourceText>Gutter 19</SourceText>
+	<TargetText>Gutter 19</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 2</StringID>
+	<SourceText>Gutter 2</SourceText>
+	<TargetText>Gutter 2</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 20</StringID>
+	<SourceText>Gutter 20</SourceText>
+	<TargetText>Gutter 20</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 3</StringID>
+	<SourceText>Gutter 3</SourceText>
+	<TargetText>Gutter 3</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 4</StringID>
+	<SourceText>Gutter 4</SourceText>
+	<TargetText>Gutter 4</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 5</StringID>
+	<SourceText>Gutter 5</SourceText>
+	<TargetText>Gutter 5</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 6</StringID>
+	<SourceText>Gutter 6</SourceText>
+	<TargetText>Gutter 6</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 7</StringID>
+	<SourceText>Gutter 7</SourceText>
+	<TargetText>Gutter 7</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 8</StringID>
+	<SourceText>Gutter 8</SourceText>
+	<TargetText>Gutter 8</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Gutter 9</StringID>
+	<SourceText>Gutter 9</SourceText>
+	<TargetText>Gutter 9</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Next Record Button</StringID>
+	<SourceText>Next Record Button</SourceText>
+	<TargetText>Next Record Button</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Previous Record Button</StringID>
+	<SourceText>Previous Record Button</SourceText>
+	<TargetText>Previous Record Button</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Record Count</StringID>
+	<SourceText>Record Count</SourceText>
+	<TargetText>Record Count</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.SideNav Buttons</StringID>
+	<SourceText>SideNav Buttons</SourceText>
+	<TargetText>SideNav Buttons</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.Views Widget Copy</StringID>
+	<SourceText>Views Widget Copy</SourceText>
+	<TargetText>Views Widget Copy</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.example-list-2</StringID>
+	<SourceText>example-list-2</SourceText>
+	<TargetText>example-list-2</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.example-list-2 Copy</StringID>
+	<SourceText>example-list-2 Copy</SourceText>
+	<TargetText>example-list-2 Copy</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.example-list-3</StringID>
+	<SourceText>example-list-3</SourceText>
+	<TargetText>example-list-3</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.example-portal</StringID>
+	<SourceText>example-portal</SourceText>
+	<TargetText>example-portal</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.10</StringID>
+	<SourceText>10</SourceText>
+	<TargetText>10</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.11</StringID>
+	<SourceText>11</SourceText>
+	<TargetText>11</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.12</StringID>
+	<SourceText>12</SourceText>
+	<TargetText>12</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.13</StringID>
+	<SourceText>13</SourceText>
+	<TargetText>13</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.14</StringID>
+	<SourceText>14</SourceText>
+	<TargetText>14</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.16</StringID>
+	<SourceText>16</SourceText>
+	<TargetText>16</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.16 pt</StringID>
+	<SourceText>16 pt</SourceText>
+	<TargetText>16 pt</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.19 pt</StringID>
+	<SourceText>19 pt</SourceText>
+	<TargetText>19 pt</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.20</StringID>
+	<SourceText>20</SourceText>
+	<TargetText>20</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.24</StringID>
+	<SourceText>24</SourceText>
+	<TargetText>24</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.27BF5328F9AD5B08D1D4156999EFD13D</StringID>
+	<SourceText>Desktop<CR/>1280x960</SourceText>
+	<TargetText>Desktop<CR/>1280x960</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.28</StringID>
+	<SourceText>28</SourceText>
+	<TargetText>28</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.2D766D5402B6882E4218964AAC72A708</StringID>
+	<SourceText>While Material.io generally uses Scale-Independent Pixels (sp) to specify font size units and type scale, the operating unit in FileMaker is the pixel independent unit, pt. To adapt Material.io font and typography guidelines to FileMaker, we have cast Material font sizes and type scales in FileMaker friendly terms borrowing scaling specifications and a few labels from Apple&apos;s Design Guidelines.</SourceText>
+	<TargetText>While Material.io generally uses Scale-Independent Pixels (sp) to specify font size units and type scale, the operating unit in FileMaker is the pixel independent unit, pt. To adapt Material.io font and typography guidelines to FileMaker, we have cast Material font sizes and type scales in FileMaker friendly terms borrowing scaling specifications and a few labels from Apple&apos;s Design Guidelines.</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.34</StringID>
+	<SourceText>34</SourceText>
+	<TargetText>34</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.36pt</StringID>
+	<SourceText>36pt</SourceText>
+	<TargetText>36pt</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.39BADF3DA1F6202F203118FD552ABE7A</StringID>
+	<SourceText>Mizu is a grid based theme. Objects measurements align to an 64pt, 8 minor step FileMaker grid, which in turn, informs both spacing between components and of the overall layout.<CR/><CR/>Smaller components, such as icons and typography, can align to a 4pt grid.<CR/><CR/>A basic 1280pt wide layout grid template can be found on this layout or in the &apos;Grids&apos; folder in this file. This template has been specifically designed to create evenly spaced 16pt gutters that work for 1280 and 1024 wide layouts.<CR/></SourceText>
+	<TargetText>Mizu is a grid based theme. Objects measurements align to an 64pt, 8 minor step FileMaker grid, which in turn, informs both spacing between components and of the overall layout.<CR/><CR/>Smaller components, such as icons and typography, can align to a 4pt grid.<CR/><CR/>A basic 1280pt wide layout grid template can be found on this layout or in the &apos;Grids&apos; folder in this file. This template has been specifically designed to create evenly spaced 16pt gutters that work for 1280 and 1024 wide layouts.<CR/></TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.40</StringID>
+	<SourceText>40</SourceText>
+	<TargetText>40</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.48</StringID>
+	<SourceText>48</SourceText>
+	<TargetText>48</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.524CEEAF4AC4269E6EF0439CEB6E40F6</StringID>
+	<SourceText>iPad<CR/>768 x 916, portrait<CR/>1024 x 660, landscape</SourceText>
+	<TargetText>iPad<CR/>768 x 916, portrait<CR/>1024 x 660, landscape</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.64 pt</StringID>
+	<SourceText>64 pt</SourceText>
+	<TargetText>64 pt</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.64pt</StringID>
+	<SourceText>64pt</SourceText>
+	<TargetText>64pt</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.72pt</StringID>
+	<SourceText>72pt</SourceText>
+	<TargetText>72pt</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.8F9CF1FF7F840D8022B36EF82735BCDC</StringID>
+	<SourceText>iPhone X<CR/>375 x 734, portrait<CR/>734 x 375, landscape<CR/></SourceText>
+	<TargetText>iPhone X<CR/>375 x 734, portrait<CR/>734 x 375, landscape<CR/></TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.8pt</StringID>
+	<SourceText>8pt</SourceText>
+	<TargetText>8pt</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.A Card Component (H6)</StringID>
+	<SourceText>A Card Component (H6)</SourceText>
+	<TargetText>A Card Component (H6)</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.A FileMaker Theme by Proof</StringID>
+	<SourceText>A FileMaker Theme by Proof</SourceText>
+	<TargetText>A FileMaker Theme by Proof</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.AD6936970789B0A8058AD7C0FC1010E8</StringID>
+	<SourceText>https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html<CR/>https://ivomynttinen.com/blog/ios-design-guidelines<CR/>https://hackernoon.com/designing-for-iphone-x-9-tips-to-create-a-great-looking-application-c9e004b9f370</SourceText>
+	<TargetText>https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html<CR/>https://ivomynttinen.com/blog/ios-design-guidelines<CR/>https://hackernoon.com/designing-for-iphone-x-9-tips-to-create-a-great-looking-application-c9e004b9f370</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.All caps</StringID>
+	<SourceText>All caps</SourceText>
+	<TargetText>All caps</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Anatomy of a Field</StringID>
+	<SourceText>Anatomy of a Field</SourceText>
+	<TargetText>Anatomy of a Field</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Basic Portal</StringID>
+	<SourceText>Basic Portal</SourceText>
+	<TargetText>Basic Portal</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Beautiful is better than ugly</StringID>
+	<SourceText>Beautiful is better than ugly</SourceText>
+	<TargetText>Beautiful is better than ugly</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Body 1</StringID>
+	<SourceText>Body 1</SourceText>
+	<TargetText>Body 1</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Body 2</StringID>
+	<SourceText>Body 2</SourceText>
+	<TargetText>Body 2</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Body 2 is not #000000. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis enim sed mauris fermentum mattis. Donec blandit ex neque, in condimentum sapien aliquet eget. Proin risus purus, lobortis id convallis sed, sodales in elit. Phasellus ut neque id mauris egestas dapibus eu eget elit.</StringID>
+	<SourceText>Body 2 is not #000000. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis enim sed mauris fermentum mattis. Donec blandit ex neque, in condimentum sapien aliquet eget. Proin risus purus, lobortis id convallis sed, sodales in elit. Phasellus ut neque id mauris egestas dapibus eu eget elit.</SourceText>
+	<TargetText>Body 2 is not #000000. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis enim sed mauris fermentum mattis. Donec blandit ex neque, in condimentum sapien aliquet eget. Proin risus purus, lobortis id convallis sed, sodales in elit. Phasellus ut neque id mauris egestas dapibus eu eget elit.</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Borderless</StringID>
+	<SourceText>Borderless</SourceText>
+	<TargetText>Borderless</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Button</StringID>
+	<SourceText>Button</SourceText>
+	<TargetText>Button</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Button Bar w/ Popover</StringID>
+	<SourceText>Button Bar w/ Popover</SourceText>
+	<TargetText>Button Bar w/ Popover</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Button Bars</StringID>
+	<SourceText>Button Bars</SourceText>
+	<TargetText>Button Bars</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Cancel</StringID>
+	<SourceText>Cancel</SourceText>
+	<TargetText>Cancel</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Caption 1</StringID>
+	<SourceText>Caption 1</SourceText>
+	<TargetText>Caption 1</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Caption 2</StringID>
+	<SourceText>Caption 2</SourceText>
+	<TargetText>Caption 2</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Card 1pt Raised</StringID>
+	<SourceText>Card 1pt Raised</SourceText>
+	<TargetText>Card 1pt Raised</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Card 2pt Raised</StringID>
+	<SourceText>Card 2pt Raised</SourceText>
+	<TargetText>Card 2pt Raised</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Card 4pt Raised</StringID>
+	<SourceText>Card 4pt Raised</SourceText>
+	<TargetText>Card 4pt Raised</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Card 8pt Raised</StringID>
+	<SourceText>Card 8pt Raised</SourceText>
+	<TargetText>Card 8pt Raised</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Cards are implemented as a FileMaker Slide Control with swipe gesture and navigation dots disabled, and with a the appropriate &apos;Card&apos; style applied.</StringID>
+	<SourceText>Cards are implemented as a FileMaker Slide Control with swipe gesture and navigation dots disabled, and with a the appropriate &apos;Card&apos; style applied.</SourceText>
+	<TargetText>Cards are implemented as a FileMaker Slide Control with swipe gesture and navigation dots disabled, and with a the appropriate &apos;Card&apos; style applied.</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Case</StringID>
+	<SourceText>Case</SourceText>
+	<TargetText>Case</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Checkbox</StringID>
+	<SourceText>Checkbox</SourceText>
+	<TargetText>Checkbox</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Color Themed Button Bar</StringID>
+	<SourceText>Color Themed Button Bar</SourceText>
+	<TargetText>Color Themed Button Bar</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Column Header 1</StringID>
+	<SourceText>Column Header 1</SourceText>
+	<TargetText>Column Header 1</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Column Header 2</StringID>
+	<SourceText>Column Header 2</SourceText>
+	<TargetText>Column Header 2</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Column Header 3</StringID>
+	<SourceText>Column Header 3</SourceText>
+	<TargetText>Column Header 3</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Column Header 4</StringID>
+	<SourceText>Column Header 4</SourceText>
+	<TargetText>Column Header 4</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Contained Danger</StringID>
+	<SourceText>Contained Danger</SourceText>
+	<TargetText>Contained Danger</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Container Field</StringID>
+	<SourceText>Container Field</SourceText>
+	<TargetText>Container Field</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Default</StringID>
+	<SourceText>Default</SourceText>
+	<TargetText>Default</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Default Helper Text</StringID>
+	<SourceText>Default Helper Text</SourceText>
+	<TargetText>Default Helper Text</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Default, unstyled button. Useful for wireframing and prototyping</StringID>
+	<SourceText>Default, unstyled button. Useful for wireframing and prototyping</SourceText>
+	<TargetText>Default, unstyled button. Useful for wireframing and prototyping</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Drop-down List</StringID>
+	<SourceText>Drop-down List</SourceText>
+	<TargetText>Drop-down List</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Dropdown Calendar</StringID>
+	<SourceText>Dropdown Calendar</SourceText>
+	<TargetText>Dropdown Calendar</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Example 1: Headlines &amp; Body Text</StringID>
+	<SourceText>Example 1: Headlines &amp; Body Text</SourceText>
+	<TargetText>Example 1: Headlines &amp; Body Text</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Example 2: Card &amp; Fields</StringID>
+	<SourceText>Example 2: Card &amp; Fields</SourceText>
+	<TargetText>Example 2: Card &amp; Fields</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Field Label</StringID>
+	<SourceText>Field Label</SourceText>
+	<TargetText>Field Label</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Filled</StringID>
+	<SourceText>Filled</SourceText>
+	<TargetText>Filled</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Floating Field Label</StringID>
+	<SourceText>Floating Field Label</SourceText>
+	<TargetText>Floating Field Label</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Font</StringID>
+	<SourceText>Font</SourceText>
+	<TargetText>Font</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Footnote</StringID>
+	<SourceText>Footnote</SourceText>
+	<TargetText>Footnote</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Grayscale Button Bar</StringID>
+	<SourceText>Grayscale Button Bar</SourceText>
+	<TargetText>Grayscale Button Bar</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Gutter</StringID>
+	<SourceText>Gutter</SourceText>
+	<TargetText>Gutter</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.H1</StringID>
+	<SourceText>H1</SourceText>
+	<TargetText>H1</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.H2</StringID>
+	<SourceText>H2</SourceText>
+	<TargetText>H2</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.H3</StringID>
+	<SourceText>H3</SourceText>
+	<TargetText>H3</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.H4</StringID>
+	<SourceText>H4</SourceText>
+	<TargetText>H4</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.H5</StringID>
+	<SourceText>H5</SourceText>
+	<TargetText>H5</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.H6</StringID>
+	<SourceText>H6</SourceText>
+	<TargetText>H6</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Headline 5</StringID>
+	<SourceText>Headline 5</SourceText>
+	<TargetText>Headline 5</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Headline 6</StringID>
+	<SourceText>Headline 6</SourceText>
+	<TargetText>Headline 6</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Helvetica Neue</StringID>
+	<SourceText>Helvetica Neue</SourceText>
+	<TargetText>Helvetica Neue</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.High Contrast Secondary</StringID>
+	<SourceText>High Contrast Secondary</SourceText>
+	<TargetText>High Contrast Secondary</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.High emphasis button.</StringID>
+	<SourceText>High emphasis button.</SourceText>
+	<TargetText>High emphasis button.</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.High emphasis danger button</StringID>
+	<SourceText>High emphasis danger button</SourceText>
+	<TargetText>High emphasis danger button</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.ID</StringID>
+	<SourceText>ID</SourceText>
+	<TargetText>ID</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Input fields styles in Mizu have been adapted from Material.io fit a variety of common design scenarios. For most general UI needs and for general Proof product development the default styling (Default text and default field styles) will usually suffice. Use the Outlined style in situations where form fields need extra emphasis.</StringID>
+	<SourceText>Input fields styles in Mizu have been adapted from Material.io fit a variety of common design scenarios. For most general UI needs and for general Proof product development the default styling (Default text and default field styles) will usually suffice. Use the Outlined style in situations where form fields need extra emphasis.</SourceText>
+	<TargetText>Input fields styles in Mizu have been adapted from Material.io fit a variety of common design scenarios. For most general UI needs and for general Proof product development the default styling (Default text and default field styles) will usually suffice. Use the Outlined style in situations where form fields need extra emphasis.</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Ipsum</StringID>
+	<SourceText>Ipsum</SourceText>
+	<TargetText>Ipsum</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Light</StringID>
+	<SourceText>Light</SourceText>
+	<TargetText>Light</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Lists, whether implemented as a portal control or a list view are share the same underlying specifications. Implement lists as portals in apps that use side navigation drawers.</StringID>
+	<SourceText>Lists, whether implemented as a portal control or a list view are share the same underlying specifications. Implement lists as portals in apps that use side navigation drawers.</SourceText>
+	<TargetText>Lists, whether implemented as a portal control or a list view are share the same underlying specifications. Implement lists as portals in apps that use side navigation drawers.</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Logo</StringID>
+	<SourceText>Logo</SourceText>
+	<TargetText>Logo</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Lorem Ipsum</StringID>
+	<SourceText>Lorem Ipsum</SourceText>
+	<TargetText>Lorem Ipsum</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id posuere ipsum. Mauris a neque augue. Integer auctor nisi turpis, blandit tristique tortor sodales at. Aenean at nibh nec tellus laoreet aliquam vitae et elit.</StringID>
+	<SourceText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id posuere ipsum. Mauris a neque augue. Integer auctor nisi turpis, blandit tristique tortor sodales at. Aenean at nibh nec tellus laoreet aliquam vitae et elit.</SourceText>
+	<TargetText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id posuere ipsum. Mauris a neque augue. Integer auctor nisi turpis, blandit tristique tortor sodales at. Aenean at nibh nec tellus laoreet aliquam vitae et elit.</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Low Contrast Secondary</StringID>
+	<SourceText>Low Contrast Secondary</SourceText>
+	<TargetText>Low Contrast Secondary</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Low emphasis button.</StringID>
+	<SourceText>Low emphasis button.</SourceText>
+	<TargetText>Low emphasis button.</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Medium</StringID>
+	<SourceText>Medium</SourceText>
+	<TargetText>Medium</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Medium emphasis button</StringID>
+	<SourceText>Medium emphasis button</SourceText>
+	<TargetText>Medium emphasis button</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Medium emphasis danger button</StringID>
+	<SourceText>Medium emphasis danger button</SourceText>
+	<TargetText>Medium emphasis danger button</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Mizu</StringID>
+	<SourceText>Mizu</SourceText>
+	<TargetText>Mizu</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Native Tab Controls are eschewed in favor of Slide Controls using Button Bars to navigate between tabs. This provides the ability to dynamically show or hide certain _tabs_</StringID>
+	<SourceText>Native Tab Controls are eschewed in favor of Slide Controls using Button Bars to navigate between tabs. This provides the ability to dynamically show or hide certain &quot;tabs&quot;</SourceText>
+	<TargetText>Native Tab Controls are eschewed in favor of Slide Controls using Button Bars to navigate between tabs. This provides the ability to dynamically show or hide certain &quot;tabs&quot;</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Number</StringID>
+	<SourceText>Number</SourceText>
+	<TargetText>Number</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.OVERLINE</StringID>
+	<SourceText>OVERLINE</SourceText>
+	<TargetText>OVERLINE</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Outlined</StringID>
+	<SourceText>Outlined</SourceText>
+	<TargetText>Outlined</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Outlined Danger</StringID>
+	<SourceText>Outlined Danger</SourceText>
+	<TargetText>Outlined Danger</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Overline</StringID>
+	<SourceText>Overline</SourceText>
+	<TargetText>Overline</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Pop-up Menu</StringID>
+	<SourceText>Pop-up Menu</SourceText>
+	<TargetText>Pop-up Menu</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Radio Button Set</StringID>
+	<SourceText>Radio Button Set</SourceText>
+	<TargetText>Radio Button Set</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Record Nav Widget</StringID>
+	<SourceText>Record Nav Widget</SourceText>
+	<TargetText>Record Nav Widget</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.References</StringID>
+	<SourceText>References</SourceText>
+	<TargetText>References</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Regular</StringID>
+	<SourceText>Regular</SourceText>
+	<TargetText>Regular</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Required* (Helper Text)</StringID>
+	<SourceText>Required* (Helper Text)</SourceText>
+	<TargetText>Required* (Helper Text)</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.SECTION TITLE</StringID>
+	<SourceText>SECTION TITLE</SourceText>
+	<TargetText>SECTION TITLE</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Scale Category</StringID>
+	<SourceText>Scale Category</SourceText>
+	<TargetText>Scale Category</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Sentence</StringID>
+	<SourceText>Sentence</SourceText>
+	<TargetText>Sentence</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Side Nav Drawer</StringID>
+	<SourceText>Side Nav Drawer</SourceText>
+	<TargetText>Side Nav Drawer</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Size</StringID>
+	<SourceText>Size</SourceText>
+	<TargetText>Size</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Styling for miscellaneous FileMaker objects that aren&apos;t necessarily included in the Material specification.</StringID>
+	<SourceText>Styling for miscellaneous FileMaker objects that aren&apos;t necessarily included in the Material specification.</SourceText>
+	<TargetText>Styling for miscellaneous FileMaker objects that aren&apos;t necessarily included in the Material specification.</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Subtitle 1</StringID>
+	<SourceText>Subtitle 1</SourceText>
+	<TargetText>Subtitle 1</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Subtitle 2</StringID>
+	<SourceText>Subtitle 2</SourceText>
+	<TargetText>Subtitle 2</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Text</StringID>
+	<SourceText>Text</SourceText>
+	<TargetText>Text</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Text Button</StringID>
+	<SourceText>Text Button</SourceText>
+	<TargetText>Text Button</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Three-line List</StringID>
+	<SourceText>Three-line List</SourceText>
+	<TargetText>Three-line List</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.To use this theme, import it into your FileMaker file using the File _ Manage Themes dialog box.</StringID>
+	<SourceText>To use this theme, import it into your FileMaker file using the File &gt; Manage Themes dialog box.</SourceText>
+	<TargetText>To use this theme, import it into your FileMaker file using the File &gt; Manage Themes dialog box.</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Two-line List</StringID>
+	<SourceText>Two-line List</SourceText>
+	<TargetText>Two-line List</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Typeface</StringID>
+	<SourceText>Typeface</SourceText>
+	<TargetText>Typeface</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Unit</StringID>
+	<SourceText>Unit</SourceText>
+	<TargetText>Unit</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.View Buttons</StringID>
+	<SourceText>View Buttons</SourceText>
+	<TargetText>View Buttons</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Webviewer</StringID>
+	<SourceText>Webviewer</SourceText>
+	<TargetText>Webviewer</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.____gln__</StringID>
+	<SourceText>&lt;&lt;__gln&gt;&gt;</SourceText>
+	<TargetText>&lt;&lt;__gln&gt;&gt;</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.____versionString__</StringID>
+	<SourceText>&lt;&lt;__versionString&gt;&gt;</SourceText>
+	<TargetText>&lt;&lt;__versionString&gt;&gt;</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.button</StringID>
+	<SourceText>button</SourceText>
+	<TargetText>button</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.enabled</StringID>
+	<SourceText>enabled</SourceText>
+	<TargetText>enabled</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.gNavArray</StringID>
+	<SourceText>gNavArray</SourceText>
+	<TargetText>gNavArray</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.icon</StringID>
+	<SourceText>icon</SourceText>
+	<TargetText>icon</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.iconFileName</StringID>
+	<SourceText>iconFileName</SourceText>
+	<TargetText>iconFileName</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.index</StringID>
+	<SourceText>index</SourceText>
+	<TargetText>index</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.label</StringID>
+	<SourceText>label</SourceText>
+	<TargetText>label</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.parentIndex</StringID>
+	<SourceText>parentIndex</SourceText>
+	<TargetText>parentIndex</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.position</StringID>
+	<SourceText>position</SourceText>
+	<TargetText>position</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.scriptName</StringID>
+	<SourceText>scriptName</SourceText>
+	<TargetText>scriptName</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.scriptParameter</StringID>
+	<SourceText>scriptParameter</SourceText>
+	<TargetText>scriptParameter</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.section</StringID>
+	<SourceText>section</SourceText>
+	<TargetText>section</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.shortLabel</StringID>
+	<SourceText>shortLabel</SourceText>
+	<TargetText>shortLabel</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.水 (Mizu) is a Material-inspired FileMaker theme and helper file for FileMaker developers. It is part of an overall design system at Proof that emphasizes the use of underlying structures (grids), design patterns and reusable components to enable more consistent and more collaborative work.</StringID>
+	<SourceText>水 (Mizu) is a Material-inspired FileMaker theme and helper file for FileMaker developers. It is part of an overall design system at Proof that emphasizes the use of underlying structures (grids), design patterns and reusable components to enable more consistent and more collaborative work.</SourceText>
+	<TargetText>水 (Mizu) is a Material-inspired FileMaker theme and helper file for FileMaker developers. It is part of an overall design system at Proof that emphasizes the use of underlying structures (grids), design patterns and reusable components to enable more consistent and more collaborative work.</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.水 Contained</StringID>
+	<SourceText>水 Contained</SourceText>
+	<TargetText>水 Contained</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.水 Mizu</StringID>
+	<SourceText>水 Mizu</SourceText>
+	<TargetText>水 Mizu</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.水 Outlined</StringID>
+	<SourceText>水 Outlined</SourceText>
+	<TargetText>水 Outlined</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.checkbox</StringID>
+	<SourceText>checkbox</SourceText>
+	<TargetText>checkbox</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.simpleNav</StringID>
+	<SourceText>simpleNav</SourceText>
+	<TargetText>simpleNav</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.tabControl</StringID>
+	<SourceText>tabControl</SourceText>
+	<TargetText>tabControl</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.水 Mizu theme by Proof</StringID>
+	<SourceText>水 Mizu theme by Proof</SourceText>
+	<TargetText>水 Mizu theme by Proof</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.go to tab ( tabname )</StringID>
+	<SourceText>go to tab ( tabname )</SourceText>
+	<TargetText>go to tab ( tabname )</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.nav init ()</StringID>
+	<SourceText>nav init ()</SourceText>
+	<TargetText>nav init ()</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.nav main ( index )</StringID>
+	<SourceText>nav main ( index )</SourceText>
+	<TargetText>nav main ( index )</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.on open - example</StringID>
+	<SourceText>on open - example</SourceText>
+	<TargetText>on open - example</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.toggle checkbox</StringID>
+	<SourceText>toggle checkbox</SourceText>
+	<TargetText>toggle checkbox</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.toggle star</StringID>
+	<SourceText>toggle star</SourceText>
+	<TargetText>toggle star</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.EK added this to init $$nav</StringID>
+	<SourceText>EK added this to init $$nav</SourceText>
+	<TargetText>EK added this to init $$nav</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence._appNav</StringID>
+	<SourceText>_appNav</SourceText>
+	<TargetText>_appNav</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::ID</StringID>
+	<SourceText>ID</SourceText>
+	<TargetText>ID</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::_appNav::icon</StringID>
+	<SourceText>_appNav::icon</SourceText>
+	<TargetText>_appNav::icon</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::_appNav::iconFileName</StringID>
+	<SourceText>_appNav::iconFileName</SourceText>
+	<TargetText>_appNav::iconFileName</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::_appNav::label</StringID>
+	<SourceText>_appNav::label</SourceText>
+	<TargetText>_appNav::label</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::_appNav::position</StringID>
+	<SourceText>_appNav::position</SourceText>
+	<TargetText>_appNav::position</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::_appNav::scriptName</StringID>
+	<SourceText>_appNav::scriptName</SourceText>
+	<TargetText>_appNav::scriptName</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::_appNav::scriptParameter</StringID>
+	<SourceText>_appNav::scriptParameter</SourceText>
+	<TargetText>_appNav::scriptParameter</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::_appNav::section</StringID>
+	<SourceText>_appNav::section</SourceText>
+	<TargetText>_appNav::section</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::_appNav::shortLabel</StringID>
+	<SourceText>_appNav::shortLabel</SourceText>
+	<TargetText>_appNav::shortLabel</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::enabled</StringID>
+	<SourceText>enabled</SourceText>
+	<TargetText>enabled</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::gNavArray</StringID>
+	<SourceText>gNavArray</SourceText>
+	<TargetText>gNavArray</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::icon</StringID>
+	<SourceText>icon</SourceText>
+	<TargetText>icon</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::iconFileName</StringID>
+	<SourceText>iconFileName</SourceText>
+	<TargetText>iconFileName</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::index</StringID>
+	<SourceText>index</SourceText>
+	<TargetText>index</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::label</StringID>
+	<SourceText>label</SourceText>
+	<TargetText>label</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::parentIndex</StringID>
+	<SourceText>parentIndex</SourceText>
+	<TargetText>parentIndex</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::position</StringID>
+	<SourceText>position</SourceText>
+	<TargetText>position</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::scriptName</StringID>
+	<SourceText>scriptName</SourceText>
+	<TargetText>scriptName</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::scriptParameter</StringID>
+	<SourceText>scriptParameter</SourceText>
+	<TargetText>scriptParameter</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::section</StringID>
+	<SourceText>section</SourceText>
+	<TargetText>section</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field._appNav::shortLabel</StringID>
+	<SourceText>shortLabel</SourceText>
+	<TargetText>shortLabel</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.proof_mizu_theme::Field 1</StringID>
+	<SourceText>Field 1</SourceText>
+	<TargetText>Field 1</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.proof_mizu_theme::Field 2</StringID>
+	<SourceText>Field 2</SourceText>
+	<TargetText>Field 2</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.proof_mizu_theme::Field 3</StringID>
+	<SourceText>Field 3</SourceText>
+	<TargetText>Field 3</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.proof_mizu_theme::__navitem</StringID>
+	<SourceText>__navitem</SourceText>
+	<TargetText>__navitem</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.proof_mizu_theme::_creationAccount</StringID>
+	<SourceText>_creationAccount</SourceText>
+	<TargetText>_creationAccount</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.proof_mizu_theme::_creationTimestamp</StringID>
+	<SourceText>_creationTimestamp</SourceText>
+	<TargetText>_creationTimestamp</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.proof_mizu_theme::gPlaceholderContainer</StringID>
+	<SourceText>gPlaceholderContainer</SourceText>
+	<TargetText>gPlaceholderContainer</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.proof_mizu_theme::gPlaceholderNumber</StringID>
+	<SourceText>gPlaceholderNumber</SourceText>
+	<TargetText>gPlaceholderNumber</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.proof_mizu_theme::gPlaceholderTS</StringID>
+	<SourceText>gPlaceholderTS</SourceText>
+	<TargetText>gPlaceholderTS</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.proof_mizu_theme::gPlaceholderText</StringID>
+	<SourceText>gPlaceholderText</SourceText>
+	<TargetText>gPlaceholderText</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.proof_mizu_theme::proof_mizu_theme::ID</StringID>
+	<SourceText>proof_mizu_theme::ID</SourceText>
+	<TargetText>proof_mizu_theme::ID</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.proof_mizu_theme::proof_mizu_theme::__navitem</StringID>
+	<SourceText>proof_mizu_theme::__navitem</SourceText>
+	<TargetText>proof_mizu_theme::__navitem</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.proof_mizu_theme</StringID>
+	<SourceText>proof_mizu_theme</SourceText>
+	<TargetText>proof_mizu_theme</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.valuelist.Checkbox | True</StringID>
+	<SourceText>Checkbox | True</SourceText>
+	<TargetText>Checkbox | True</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.valuelist.Example List</StringID>
+	<SourceText>Example List</SourceText>
+	<TargetText>Example List</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.valuelist.Title</StringID>
+	<SourceText>Title</SourceText>
+	<TargetText>Title</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.valuelist.Ut emin</StringID>
+	<SourceText>Ut emin</SourceText>
+	<TargetText>Ut emin</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.valuelist.text.1</StringID>
+	<SourceText>1</SourceText>
+	<TargetText>1</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.valuelist.text.5F4676E94181AA633DAE4D72C080B340</StringID>
+	<SourceText>Mr.<CR/>Mrs.<CR/>Ms.<CR/>-<CR/>Prof.<CR/>-</SourceText>
+	<TargetText>Mr.<CR/>Mrs.<CR/>Ms.<CR/>-<CR/>Prof.<CR/>-</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.valuelist.text.A573114AF0595380875A824746852DD0</StringID>
+	<SourceText>Ut emin<CR/>Ad minim</SourceText>
+	<TargetText>Ut emin<CR/>Ad minim</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.valuelist.text.B673D4323B8A4C20BDF36AAE23A2B524</StringID>
+	<SourceText>Alpha<CR/>Bravo<CR/>Charlie</SourceText>
+	<TargetText>Alpha<CR/>Bravo<CR/>Charlie</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
