@@ -3,6 +3,8 @@ Mizu
 
 Version 1.0 Beta
 
+Download it here, https://github.com/proofgroup/mizu/releases
+
 水 (Mizu) is a Material and IBM Carbon-inspired theme and helper file for FileMaker developers. It is part of an overall design system at Proof that emphasizes the use of underlying structures (grids), design patterns and reusable components to enable more consistent and more collaborative work.
 
 Mizu is designed for FileMaker 18 or higher. It works best with FileMaker 19 as an add-on component. To install Mizu for FileMaker 18, open the `proof_mizu_theme.fmp12` file locally in FileMaker Pro and import the theme into your FileMaker file using the Layouts>Change Theme menu command while in Layout mode.
