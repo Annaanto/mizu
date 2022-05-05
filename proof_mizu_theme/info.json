@@ -1,11 +1,11 @@
 ﻿{
-	"GUID" : "0FA955D4-9B20-4786-9C59-C6BB5352EDEF",
+	"GUID" : "79560687-4C7A-407B-9278-CE91FA749EDF",
 	"Clients" :
 		[
 			"Pro","Go"
 		],
-	"Attribution" : "The Proof Group",
-	"URL" : "https://proofgroup.com/",
+	"Attribution" : "Proof+Geist",
+	"URL" : "https://proofgeist.com/",
 	"Icon_Color" : "",
 	"Version" : "1"
 }
