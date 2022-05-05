@@ -12,4 +12,4 @@ For FileMaker 19+ users, you can double click on the `proof_mizu_theme.fmaddon` 
 
 To uninstall Mizu in FileMaker 19, go to Layout Mode and uninstall the add-on from the add-ons panel.
 
-![Mizu img](../mizu/mizu.png "Text to show on mouseover").
+![Mizu img](mizu.png "Text to show on mouseover").
