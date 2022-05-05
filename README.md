@@ -1,6 +1,6 @@
 ## Mizu
 
-Download it latest releases here, https://github.com/proofgeist/mizu/releases
+Download the latest release here, https://github.com/proofgeist/mizu/releases
 
 水 (Mizu) is a lightweight, Material and IBM Carbon-inspired theme and helper file for FileMaker developers. It is part of an overall design system at Proof+Geist that emphasizes the use of underlying structures (grids), design patterns and reusable components to enable more consistent and more collaborative work.
 
