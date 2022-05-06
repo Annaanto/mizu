@@ -651,13 +651,6 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.2595A60CD70CCF2194D2F671C6918F1B</StringID>
-	<SourceText>AccountInfo</SourceText>
-	<TargetText>AccountInfo</TargetText>
-	<Comment>com.fmi.calculation.text.AccountInfo</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.270628AB0D80EE428B35DFE9E89AAFF7</StringID>
 	<SourceText>.</SourceText>
 	<TargetText>.</TargetText>
@@ -1250,6 +1243,13 @@
 	<SourceText>Gutter 14</SourceText>
 	<TargetText>Gutter 14</TargetText>
 	<Comment>com.fmi.layoutobject.Gutter 14</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.6CB38CD03646C3815DA520FC344A420B</StringID>
+	<SourceText>checkbox-btn-bar</SourceText>
+	<TargetText>checkbox-btn-bar</TargetText>
+	<Comment>com.fmi.layoutobject.checkbox-btn-bar</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
