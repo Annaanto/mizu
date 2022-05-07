@@ -1323,6 +1323,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.A428EA147677EFFEFEB6FBE32AB0F864</StringID>
+	<SourceText>tab-control</SourceText>
+	<TargetText>tab-control</TargetText>
+	<Comment>com.fmi.layoutobject.tab-control</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.layoutobject.A5174B9A200402BC65D3058946342DEB</StringID>
 	<SourceText>Gutter 1</SourceText>
 	<TargetText>Gutter 1</TargetText>
@@ -1390,6 +1397,13 @@
 	<SourceText>Gutter 11</SourceText>
 	<TargetText>Gutter 11</TargetText>
 	<Comment>com.fmi.layoutobject.Gutter 11</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.F64B24D70A787762FFA6FC81515DFF2B</StringID>
+	<SourceText>tab-slide-panel</SourceText>
+	<TargetText>tab-slide-panel</TargetText>
+	<Comment>com.fmi.layoutobject.tab-slide-panel</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
