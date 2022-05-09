@@ -616,6 +616,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1596F7527E4B5889014D2C8EDBFAA52C</StringID>
+	<SourceText>https://github.com/proofgeist/mizu</SourceText>
+	<TargetText>https://github.com/proofgeist/mizu</TargetText>
+	<Comment>com.fmi.calculation.text.https://github.com/proofgeist/mizu</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.195D094E9F080E012262FC29F0C07F04</StringID>
 	<SourceText>Alpha</SourceText>
 	<TargetText>Alpha</TargetText>
@@ -1295,6 +1302,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.97957E03ACC37C5F83A762F2CCFE255D</StringID>
+	<SourceText>tab-slide-panel-3</SourceText>
+	<TargetText>tab-slide-panel-3</TargetText>
+	<Comment>com.fmi.layoutobject.tab-slide-panel-3</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.layoutobject.985E89E7FA6782738765FF952FAA0504</StringID>
 	<SourceText>Gutter 8</SourceText>
 	<TargetText>Gutter 8</TargetText>
@@ -1351,10 +1365,24 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.B63A4D1E650F69CEE90449C4F192773E</StringID>
+	<SourceText>tab-slide-panel-2</SourceText>
+	<TargetText>tab-slide-panel-2</TargetText>
+	<Comment>com.fmi.layoutobject.tab-slide-panel-2</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.layoutobject.B8D701C119E3E2F607A9BBD8C9C2AB60</StringID>
 	<SourceText>example-portal</SourceText>
 	<TargetText>example-portal</TargetText>
 	<Comment>com.fmi.layoutobject.example-portal</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.BCAA91EF51CF3AEDA342C8A18E3B605A</StringID>
+	<SourceText>tab-control-btnbar</SourceText>
+	<TargetText>tab-control-btnbar</TargetText>
+	<Comment>com.fmi.layoutobject.tab-control-btnbar</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -1390,6 +1418,13 @@
 	<SourceText>Gutter 11</SourceText>
 	<TargetText>Gutter 11</TargetText>
 	<Comment>com.fmi.layoutobject.Gutter 11</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.F64B24D70A787762FFA6FC81515DFF2B</StringID>
+	<SourceText>tab-slide-panel</SourceText>
+	<TargetText>tab-slide-panel</TargetText>
+	<Comment>com.fmi.layoutobject.tab-slide-panel</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -1523,6 +1558,13 @@
 	<SourceText>Cancel</SourceText>
 	<TargetText>Cancel</TargetText>
 	<Comment>com.fmi.layoutobject.text.Cancel</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.1596F7527E4B5889014D2C8EDBFAA52C</StringID>
+	<SourceText>https://github.com/proofgeist/mizu</SourceText>
+	<TargetText>https://github.com/proofgeist/mizu</TargetText>
+	<Comment>com.fmi.layoutobject.text.https://github.com/proofgeist/mizu</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -1733,13 +1775,6 @@
 	<SourceText>Medium</SourceText>
 	<TargetText>Medium</TargetText>
 	<Comment>com.fmi.layoutobject.text.Medium</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.layoutobject.text.44BACEDBF433E8274E5D0C2717DB3554</StringID>
-	<SourceText>To use this theme, import it into your FileMaker file using the File &gt; Manage Themes dialog box.</SourceText>
-	<TargetText>To use this theme, import it into your FileMaker file using the File &gt; Manage Themes dialog box.</TargetText>
-	<Comment>com.fmi.layoutobject.text.To use this theme, import it into your FileMaker file using the File &gt; Manage Themes dialog box.</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -2111,6 +2146,13 @@
 	<SourceText>Card 8pt Raised</SourceText>
 	<TargetText>Card 8pt Raised</TargetText>
 	<Comment>com.fmi.layoutobject.text.Card 8pt Raised</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.AD64DF6F9B14D053965A44E9798BB9FE</StringID>
+	<SourceText>To use this theme, install the add-on file from Claris Marketplace or download it from the github repository.</SourceText>
+	<TargetText>To use this theme, install the add-on file from Claris Marketplace or download it from the github repository.</TargetText>
+	<Comment>com.fmi.layoutobject.text.To use this theme, install the add-on file from Claris Marketplace or download it from the github repository.</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -2510,6 +2552,13 @@
 	<SourceText>nav main ( index )</SourceText>
 	<TargetText>nav main ( index )</TargetText>
 	<Comment>com.fmi.script.nav main ( index )</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.F43EAD6F926372BDF80402652379ECDD</StringID>
+	<SourceText>open github repos</SourceText>
+	<TargetText>open github repos</TargetText>
+	<Comment>com.fmi.script.open github repos</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
