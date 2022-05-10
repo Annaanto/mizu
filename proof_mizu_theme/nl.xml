@@ -707,6 +707,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.41AD2D7B7096808DF0F19591584CE0C1</StringID>
+	<SourceText>1.2</SourceText>
+	<TargetText>1.2</TargetText>
+	<Comment>com.fmi.calculation.text.1.2</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.42CC72230D7F5AA65DD80D04248A19F1</StringID>
 	<SourceText>scriptName</SourceText>
 	<TargetText>scriptName</TargetText>
@@ -851,13 +858,6 @@
 	<SourceText>main.detail</SourceText>
 	<TargetText>main.detail</TargetText>
 	<Comment>com.fmi.calculation.text.main.detail</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.A1EF1692795CC0BFA55FB7200A528BE2</StringID>
-	<SourceText>1.1</SourceText>
-	<TargetText>1.1</TargetText>
-	<Comment>com.fmi.calculation.text.1.1</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -2356,6 +2356,13 @@
 	<SourceText>position</SourceText>
 	<TargetText>position</TargetText>
 	<Comment>com.fmi.layoutobject.text.position</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.DC1C7A9F4E4F5F23422F0CB352C64EB8</StringID>
+	<SourceText>MIZU</SourceText>
+	<TargetText>MIZU</TargetText>
+	<Comment>com.fmi.layoutobject.text.MIZU</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
