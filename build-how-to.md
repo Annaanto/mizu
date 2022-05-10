@@ -1,22 +1,18 @@
+
+
+
+
+
 Development notes for saving a theme as an add-on package and then cleaning up the extraneous xml that's in them. This should be scripted eventually.
 
-if you are doing this cleanup visually, a litty tdying up of the XML file goes a long way. E.g, replace 
-```
+Don't mess with CDATA sections. It's a pain because it breaks folding but it's better to avoid inadvertently breaking the file.
 
-{
-}
-]]></LocalCSS>
-
-```
-
-with 
-```
- {}]]></LocalCSS>
-```
-
-note the leading spaces
+## How to generate a theme preview
+FileMaker saves an image of the layout that you were last on every time you save the saves to the theme globally.
 
 ## Remove Extraneous Objects from the **Portals** layout
+
+I use the *compare* feature in VSCode to detect and remove sections that are different.
 
 There are two extra buttons in the Portal element, UUID: 47F1ED16-AADE-4EAA-9D1E-E47CDBED8664
 
