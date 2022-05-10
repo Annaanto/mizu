@@ -13,9 +13,9 @@ Mizu works best when applied as part of an overall development and design philos
 - Process over heroics
 - Ship, iterate
 - Avoid undifferentiated work
+- Automate the boring stuff to pay attention to the important stuff.
 - Start small, loosely coupled
 - UI (look) is good, UX (feel) matters more.
-- Automate the boring stuff to pay attention to the important stuff.
 - Pixel pushing is dumb
 
 Mizu is made for FileMaker 19 or higher. It probably works in FileMaker 18 but your mileage may vary :). 

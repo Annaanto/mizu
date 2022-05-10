@@ -72,4 +72,5 @@ This creates the xar .fmaddon archive with the contents of the `proof_mizu_theme
 1. uninstall any existing instances of the mizu add-on
 2. delete the .fmaddon file and the proof_mizu_theme folder from the `FileMaker/Extensions/AddonModules` directory
 3. Install the new addon by double clicking the file
-4. Make a new FileMaker file and try adding the installed add-on to it.
+4. Make a new FileMaker file and try adding the installed add-on to it
+5. Check to make sure there are no duplicated buttons on the Portal, List, or Tabs layouts.
