@@ -3,7 +3,7 @@
 ## About
 These @ernestkoe and @pgcorn's development notes for packing a custom theme as an FileMaker add-on package and then cleaning up the extraneous XML that's in them. This should be scripted eventually.
 
-When FileMaker does a 'save as an add-on', it will generate a folder with XML files that tell FileMaker how to import and create the add-on. The primary file of interest is the template.xml file. Other things like data, language-specific labels are kept separately. The template.xml contains structure AND literal content ([CDATA](https://en.wikipedia.org/wiki/CDATA)) which makes the file tricky to parse or collapse.
+When FileMaker does a 'save as an add-on', it will generate a folder with XML files that tells FileMaker how to import and create the add-on. The primary file of interest is the template.xml file. Other things like data, language-specific labels are kept separately. The template.xml contains structure AND literal content ([CDATA](https://en.wikipedia.org/wiki/CDATA)) which makes the file tricky to parse or collapse.
 
 :warning: Don't mess with CDATA sections. It's a pain because it breaks folding but it's better to avoid inadvertently breaking the file.
 
